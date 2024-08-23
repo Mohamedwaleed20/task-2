@@ -1,0 +1,43 @@
+.add{
+    text-align: center;
+    color: red;
+}
+#one{
+    background-color: rgb(42, 154, 218);
+    color: white;
+    width: 100px;
+    margin: 0 ;
+}
+#two{
+    background-color: rgb(218, 42, 110);
+    color: white;
+    width: 100px;
+    margin: 0 ;
+}
+#three{
+    background-color: rgb(21, 19, 20);
+    color: white;
+    width: 100px;
+    margin: 0 ;
+}
+thead{
+    color: white;
+    background-color: red;
+    text-align: center;
+}
+#vid{
+    background-image: url(2.jpg);
+    background-repeat:no-repeat ;
+}
+video{
+    height: 400px;
+    width: 500px;
+
+}
+.four{
+    color: white;
+    background-color: black;
+    height: 50px;
+    text-align: center;
+
+}
